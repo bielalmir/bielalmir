@@ -5,7 +5,7 @@
 ### 🌍 Developer • Learner • Creator from Kashmir, India  
 
 I’m **Bilal**, a curious mind exploring the world of **programming and technology**.  
-From writing efficient code in **C** and **Python**, analyzing data with **R**,  
+Currently I'm learning to code in **C** and **Python**, analyzing data with **R**,  
 to typesetting research papers in **LaTeX**, I enjoy blending logic with creativity.  
 
 When I’m not coding or editing, I’m usually learning something new,  
